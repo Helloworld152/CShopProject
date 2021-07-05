@@ -1,0 +1,13 @@
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.exe
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.deps.json
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.runtimeconfig.json
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.runtimeconfig.dev.json
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.dll
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\bin\Debug\netcoreapp3.1\CShopProject.pdb
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.csproj.AssemblyReference.cache
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.AssemblyInfoInputs.cache
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.AssemblyInfo.cs
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.csproj.CoreCompileInputs.cache
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.dll
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.pdb
+C:\Users\15224\Desktop\Project\CShopProject\CShopProject\obj\Debug\netcoreapp3.1\CShopProject.genruntimeconfig.cache
